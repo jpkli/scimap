@@ -6,7 +6,7 @@ Install and start server
 ```
 pip install tornado
 cd server
-python api.py // 
+python api.py 
 ```
 This will start http server at localhost:8888.
 
